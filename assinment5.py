@@ -97,7 +97,7 @@ class BankAccount:
 
 
 acc1 = BankAccount(12345, "Rohit", 5000)
-acc2 = BankAccount(67890, "Amit", 8000)
+acc2 = BankAccount(67890, "Raj", 8000)
 
 print("\n=== Bank Account Operations ===")
 acc1.deposit(2000)
