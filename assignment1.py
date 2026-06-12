@@ -8,13 +8,13 @@ print()     #print function by default adds a new line
 
 # Q1. Write a program to display your name, college name, and favorite programming language using print().
 print("Q1. Write a program to display your name, college name, and favorite programming language using print().")
-print("This is Sayyed Saquib")   # print() is used to display the output on the console
+print("This is Rohit more")   # print() is used to display the output on the console
 print("I am studying at Zeal Polytechnic, Pune")
 print("I like to learn and work with Python programming language") 
 print()
  
-# Q2. Take user input for name and age, then display: "Hello Saquib, you are 18 years old." 
-print("Q2. Take user input for name and age, then display: 'Hello Saquib, you are 18 years old.'")
+# Q2. Take user input for name and age, then display: "Hello Rohit, you are 18 years old." 
+print("Q2. Take user input for name and age, then display: 'Hello Rohit, you are 18 years old.'")
 name = input("Enter your name: ")                         #input() is used to take user input as a string by default
 age = int(input("Enter your age: "))                      #int() is used to convert the input string to an integer
 print("Hello ", name, ", you are ", age, " years old.")   #f-string is used to format the string with variables
@@ -27,7 +27,7 @@ print()
 # - Passed status 
 # Print all values in a formatted way.
 print("Q3. Create variables for: Student name, Roll number, Percentage, Passed status. Print all values in a formatted way.")
-student_name = "Saquib" # string value
+student_name = "Rohit" # string value
 roll_number = 54        # integer value
 percentage = 85.5       # float value
 passed_status = True    # boolean value
