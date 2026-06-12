@@ -14,7 +14,7 @@ print()
 # Print all dictionary values. 
 print("Q1. Create a dictionary to store: Student name, Age, Course, City and print all dictionary values.")
 student_details = {
-    "name": "Saquib",
+    "name": "Rohit",
     "age": 18,
     "course": "AI&ML",
     "city": "Pune"
@@ -30,7 +30,7 @@ print()
 # using keys. 
 print("Q2. Create a dictionary of employee details and access: Employee name, Salary, Department using keys.")
 employee_details = {
-    "name": "Saquib",
+    "name": "Rohit",
     "salary": 50000,
     "department": "Computer Science"
 }
@@ -43,7 +43,7 @@ print()
 # Example: 
 # - Add "email" to student details. 
 print("Q3. Add a new key-value pair to an existing dictionary.")
-student_details["email"] = "abc@xyz.com"
+student_details["email"] = "rohit@xyz.com"
 print(student_details)
 print()
 
@@ -196,7 +196,7 @@ print()
 
 # Q18. Create a set of student names and display the total number of unique students. 
 print("Q18. Create a set of student names and display the total number of unique students.")
-students = {"Saquib", "Atharva", "Suraj", "Rohit", "Ishwari", "Chetana"}
+students = {"Rohit", "Ganesh", "Sujal", "Shree", "Raj", "Tanishka"}
 print("Unique students:", len(students))
 print()
 
@@ -240,8 +240,8 @@ add_numbers(10, 20)
 print()
 
 # Q23. Create a function that accepts a name as a parameter and prints: 
-# "Hello, Saquib!" 
-print("Q23. Create a function that accepts a name as a parameter and prints: Hello, Saquib!")
+# "Hello, Rohit!" 
+print("Q23. Create a function that accepts a name as a parameter and prints: Hello, Rohit!")
 def greet():
     name = input("Enter your name: ")
     print(f"Hello, {name}!")
