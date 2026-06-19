@@ -545,3 +545,5 @@ for i in range(len(students)):
 highest_mark = max(marks)
 highest_student = students[marks.index(highest_mark)]
 print(f"Highest marks: {highest_mark} ({highest_student})")
+
+print("_______________________________________________________________________________________________")
